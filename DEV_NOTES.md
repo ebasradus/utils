@@ -11,3 +11,8 @@ Personal development log — notes, findings, and ongoing work.
 - Addressed feedback from self code review
 - Reviewed codebase, identified areas for improvement
 - Added CONTRIBUTING.md stub
+
+## 2026-08-12
+- Added basic usage examples to README
+- Added basic retry logic for network requests
+- Tidied up project structure
