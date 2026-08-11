@@ -16,3 +16,6 @@ Personal development log — notes, findings, and ongoing work.
 - Added basic usage examples to README
 - Added basic retry logic for network requests
 - Tidied up project structure
+
+## 2026-08-12
+- Verified compatibility with latest runtime version
