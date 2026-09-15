@@ -19,3 +19,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-08-12
 - Verified compatibility with latest runtime version
+
+## 2026-09-16
+- Drafted initial implementation plan for v2
