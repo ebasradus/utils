@@ -38,3 +38,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-09-30
 - Drafted initial implementation plan for v2
 - Tidied up project structure
+
+## 2026-09-30
+- Updated license year
