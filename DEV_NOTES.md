@@ -34,3 +34,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-30
 - Reviewed codebase, identified areas for improvement
+
+## 2026-09-30
+- Drafted initial implementation plan for v2
+- Tidied up project structure
