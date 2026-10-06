@@ -41,3 +41,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-09-30
 - Updated license year
+
+## 2026-10-07
+- Reorganised test fixtures
+- Reviewed security headers configuration
+- Added CONTRIBUTING.md stub
