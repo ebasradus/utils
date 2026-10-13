@@ -46,3 +46,7 @@ Personal development log — notes, findings, and ongoing work.
 - Reorganised test fixtures
 - Reviewed security headers configuration
 - Added CONTRIBUTING.md stub
+
+## 2026-10-14
+- Tested build on clean environment
+- Reviewed open issues, added labels
