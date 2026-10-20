@@ -57,3 +57,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-14
 - Added inline documentation for core functions
 - Verified compatibility with latest runtime version
+
+## 2026-10-21
+- Added basic usage examples to README
+- Added .editorconfig for consistent formatting
