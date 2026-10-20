@@ -61,3 +61,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-10-21
 - Added basic usage examples to README
 - Added .editorconfig for consistent formatting
+
+## 2026-10-21
+- Bumped patch version
