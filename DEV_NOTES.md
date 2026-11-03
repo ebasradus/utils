@@ -67,3 +67,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-11-04
 - Noted known limitation in docs
+
+## 2026-11-04
+- Checked for memory leaks in long-running path
+- Added basic usage examples to README
+- Verified compatibility with latest runtime version
