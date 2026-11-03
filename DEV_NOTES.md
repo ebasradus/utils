@@ -64,3 +64,6 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-10-21
 - Bumped patch version
+
+## 2026-11-04
+- Noted known limitation in docs
