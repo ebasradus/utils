@@ -72,3 +72,6 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Added basic usage examples to README
 - Verified compatibility with latest runtime version
+
+## 2026-11-04
+- Reorganised test fixtures
