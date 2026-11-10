@@ -75,3 +75,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-11-04
 - Reorganised test fixtures
+
+## 2026-11-11
+- Updated license year
+- Reviewed open issues, added labels
